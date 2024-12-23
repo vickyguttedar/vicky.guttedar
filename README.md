@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickyguttedar" alt="vickyguttedar" /></a> </p>
 
 - 🌱 I’m currently learning **js**
+-   also iam  currently learning **node js**
 
 - 💬 Ask me about **tech, fintech ,**
 
